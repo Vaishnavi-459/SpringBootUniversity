@@ -1,0 +1,36 @@
+2022-01-08 15:16:27,934 INFO  StartupInfoLogger:55 - [] Starting UniversityApplication using Java 16.0.2 on DESKTOP-8B9CQUU with PID 10740 (E:\DATA\Downloads\UniversityProgram\target\classes started by admin in E:\DATA\Downloads\UniversityProgram)
+2022-01-08 15:16:28,045 INFO  SpringApplication:664 - [] No active profile set, falling back to default profiles: default
+2022-01-08 15:16:29,590 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2022-01-08 15:16:29,591 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-08 15:16:29,882 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2022-01-08 15:16:30,100 INFO  LogHelper:31 - [] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-01-08 15:16:30,162 INFO  Version:44 - [] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-01-08 15:16:30,320 INFO  JavaReflectionManager:56 - [] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-08 15:16:30,524 INFO  HikariDataSource:110 - [] HikariPool-1 - Starting...
+2022-01-08 15:16:31,403 INFO  HikariDataSource:123 - [] HikariPool-1 - Start completed.
+2022-01-08 15:16:31,435 INFO  Dialect:175 - [] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-01-08 15:16:32,436 INFO  JtaPlatformInitiator:52 - [] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-01-08 15:16:33,146 INFO  StartupInfoLogger:61 - [] Started UniversityApplication in 5.61 seconds (JVM running for 7.422)
+2022-01-08 15:16:33,148 INFO  UniversityApplication:14 - [] This is a info message
+2022-01-08 15:16:33,149 WARN  UniversityApplication:16 - [] This is a warn message
+2022-01-08 15:16:33,149 ERROR UniversityApplication:17 - [] This is a error message
+2022-01-08 15:16:56,409 INFO  HikariDataSource:350 - [] HikariPool-1 - Shutdown initiated...
+2022-01-08 15:16:56,448 INFO  HikariDataSource:352 - [] HikariPool-1 - Shutdown completed.
+2022-01-08 15:20:13,033 INFO  StartupInfoLogger:55 - [] Starting UniversityApplication using Java 16.0.2 on DESKTOP-8B9CQUU with PID 3340 (E:\DATA\Downloads\UniversityProgram\target\classes started by admin in E:\DATA\Downloads\UniversityProgram)
+2022-01-08 15:20:13,039 INFO  SpringApplication:664 - [] No active profile set, falling back to default profiles: default
+2022-01-08 15:20:14,154 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2022-01-08 15:20:14,155 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-08 15:20:14,412 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2022-01-08 15:20:14,589 INFO  LogHelper:31 - [] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-01-08 15:20:14,661 INFO  Version:44 - [] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-01-08 15:20:14,841 INFO  JavaReflectionManager:56 - [] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-08 15:20:15,047 INFO  HikariDataSource:110 - [] HikariPool-1 - Starting...
+2022-01-08 15:20:15,664 INFO  HikariDataSource:123 - [] HikariPool-1 - Start completed.
+2022-01-08 15:20:15,689 INFO  Dialect:175 - [] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-01-08 15:20:16,331 INFO  JtaPlatformInitiator:52 - [] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-01-08 15:20:16,965 INFO  StartupInfoLogger:61 - [] Started UniversityApplication in 4.264 seconds (JVM running for 5.55)
+2022-01-08 15:20:16,968 INFO  UniversityApplication:14 - [] This is a info message
+2022-01-08 15:20:16,968 WARN  UniversityApplication:16 - [] This is a warn message
+2022-01-08 15:20:16,968 ERROR UniversityApplication:17 - [] This is a error message
+2022-01-08 15:50:08,151 INFO  HikariDataSource:350 - [] HikariPool-1 - Shutdown initiated...
+2022-01-08 15:50:08,231 INFO  HikariDataSource:352 - [] HikariPool-1 - Shutdown completed.
